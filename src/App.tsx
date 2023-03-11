@@ -12,6 +12,8 @@ export const App: FunctionComponent = () => {
   // const [badCount, setBadCount] = useState<number>("1");
   // const badMemo = useMemo(() => count, []);
 
+  const unused = "this is an unused variable";
+
   return (
     <div className="App">
       <div>
